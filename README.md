@@ -1,2 +1,2 @@
 # Common Data Structures Collection
-> These are the data structures I've implemented throughout this semester.
+> These are all the data structures I've implemented throughout this semester.
